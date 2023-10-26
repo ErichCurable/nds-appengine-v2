@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/qedus/nds"
+	"github.com/ErichCurable/nds-appengine-v2"
 	"golang.org/x/net/context"
 	"google.golang.org/appengine/v2"
 	"google.golang.org/appengine/v2/datastore"
