@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/qedus/nds"
+	"github.com/ErichCurable/nds-appengine-v2"
 
 	"errors"
 
