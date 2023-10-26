@@ -1,4 +1,4 @@
-module github.com/qedus/nds
+module github.com/ErichCurable/nds-appengine-v2
 
 require (
 	golang.org/x/net v0.16.0
